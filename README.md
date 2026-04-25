@@ -27,7 +27,7 @@ This project compares the profitability and financial health of Coca-Cola (KO) a
 3.  Run all cells from top to bottom to reproduce the tables and figures.
 
 ## 6. Product link / Demo
-* **Video Demo:** See the link at the top of this README.
+* **Video Demo:** See the link at the LMO.
 * **Analysis Workflow:** Detailed code and reasoning are available in the `notebook.ipynb` file in this repository.
 
 ## 7. Limitations & next steps
