@@ -1,8 +1,5 @@
 # Financial Analysis Product: Coca-Cola vs. PepsiCo (2015-2025)
 
-## 0. Product Link / Demo Video
-
-
 ## 1. Problem & User
 This project compares the profitability and financial health of Coca-Cola (KO) and PepsiCo (PEP) to help business students understand how different operational models impact financial ratios. It specifically addresses whether Coca-Cola's asset-light strategy results in superior margins compared to PepsiCo's integrated model.
 
